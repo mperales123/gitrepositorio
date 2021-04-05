@@ -1,2 +1,6 @@
 linea actividad31
+<<<<<<< HEAD
 añado linea a fichero desde el master
+=======
+añado line a fichero desde la rama
+>>>>>>> actividad3
